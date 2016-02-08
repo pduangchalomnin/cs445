@@ -1,12 +1,12 @@
 # cs445HW1
 
-##System Requirement: 
+##### System Requirement: 
 Java 1.7 or above (apt-get install default-idk)
 jUnit4 (apt-get install junit4)
 
 =================================================================
 
-##Instruction to compile program:
+##### Instruction to compile program:
 
 1. Open command line
 
@@ -18,7 +18,7 @@ jUnit4 (apt-get install junit4)
 
 =================================================================
 
-##Instruction to run program:
+##### Instruction to run program:
 
 1. Open command line
 
@@ -30,7 +30,7 @@ jUnit4 (apt-get install junit4)
 
 =================================================================
 
-##Instruction to use build&run script:
+##### Instruction to use build&run script:
 
 1. Head to folder ‘Patipat-Duangchalomnin-HW-1’ Directory
 
@@ -38,7 +38,7 @@ jUnit4 (apt-get install junit4)
 
 =================================================================
 
-##Instruction to compile unit test:
+##### Instruction to compile unit test:
 
 1. Open command line
 
@@ -53,7 +53,7 @@ jUnit4 (apt-get install junit4)
 
 =================================================================
 
-##Instruction to run Unit test:
+##### Instruction to run Unit test:
 
 1. Open command line
 
