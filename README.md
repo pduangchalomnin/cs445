@@ -1,9 +1,9 @@
 # cs445HW1
 
 ##### System Requirement: 
-Java 1.7 or above (apt-get install default-idk)
+- Java 1.7 or above (apt-get install default-idk)
 
-jUnit4 (apt-get install junit4)
+- jUnit4 (apt-get install junit4)
 
 =================================================================
 
