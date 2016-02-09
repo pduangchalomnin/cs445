@@ -1,4 +1,4 @@
-# cs445HW1
+# CS445HW1
 
 ##### System Requirement: 
 - Java 1.7 or above (apt-get install default-idk)
